@@ -1,2 +1,2 @@
-# Sql-programs
+# Sql-Queries
 In this repositry i am uploading my sql queries which i am learning ...
